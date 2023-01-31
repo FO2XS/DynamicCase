@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Значение динамического поля" />
+			<Item Name="Columns.StdBoolean.Caption" Value="Логическое значение" />
+			<Item Name="Columns.StdCase.Caption" Value="Обращение" />
+			<Item Name="Columns.StdData.Caption" Value="Значение даты" />
+			<Item Name="Columns.StdFieldDictionary.Caption" Value="Динамическое поле" />
+			<Item Name="Columns.StdFloat.Caption" Value="Дробное значение" />
+			<Item Name="Columns.StdGuid.Caption" Value="Значение уникального идентификатора" />
+			<Item Name="Columns.StdInteger.Caption" Value="Целочисленное значение" />
+			<Item Name="Columns.StdTextValue.Caption" Value="Текстовое значение" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

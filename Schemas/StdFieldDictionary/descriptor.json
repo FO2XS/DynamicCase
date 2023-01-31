@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "39cd1027-b412-4396-8c21-388fabf8378b",
+    "Name": "StdFieldDictionary",
+    "ModifiedOnUtc": "\/Date(1674758825000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Справочник полей"
+  }
+}

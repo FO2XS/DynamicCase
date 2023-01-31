@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "f1565248-b611-4627-a924-e57e462a75f7",
+    "Name": "StdCaseFieldsValue",
+    "ModifiedOnUtc": "\/Date(1674107716000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Значение динамического поля"
+  }
+}

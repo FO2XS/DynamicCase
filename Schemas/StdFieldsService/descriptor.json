@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "67c68cb3-bf4b-41ea-bec8-b5fcee61eb7b",
+    "Name": "StdFieldsService",
+    "ModifiedOnUtc": "\/Date(1674932598000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Сервис динамических полей"
+  }
+}

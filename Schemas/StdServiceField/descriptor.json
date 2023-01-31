@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "cefac398-3bbd-4ada-afc4-f2518e420904",
+    "Name": "StdServiceField",
+    "ModifiedOnUtc": "\/Date(1674108543000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Динамическое поле в сервисе"
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "9a419745-7ee3-42e4-a39b-713d6107828e",
+    "Name": "StdFieldType",
+    "ModifiedOnUtc": "\/Date(1674103242000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тип значения"
+  }
+}

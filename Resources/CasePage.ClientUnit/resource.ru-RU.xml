@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница обращения" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Запланировать на дату" />
+			<Item Name="LocalizableStrings.DynamicTabTabCaption.Value" Value="Динамические поля" />
+			<Item Name="LocalizableStrings.EmailTitleCaption.Caption" Value="Ответ на обращение" />
+			<Item Name="LocalizableStrings.EmailTitleCaption.Value" Value="Ответ на обращение {0} {1}" />
+			<Item Name="LocalizableStrings.EscalationTitle.Caption" Value="Эскалация" />
+			<Item Name="LocalizableStrings.EscalationTitle.Value" Value="Эскалация" />
+			<Item Name="LocalizableStrings.FoundSimilarCaseTextTemplate.Value" Value="Найдены похожие обращения: {0}" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Детали" />
+			<Item Name="LocalizableStrings.HideSystemMessagesString.Caption" Value="Скрыть системные сообщения" />
+			<Item Name="LocalizableStrings.HideSystemMessagesString.Value" Value="Скрыть системные сообщения" />
+			<Item Name="LocalizableStrings.MessageHistoryGroupCaption.Caption" Value="История" />
+			<Item Name="LocalizableStrings.MessageHistoryGroupCaption.Value" Value="История" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Найдено более одного элементов очереди связанных с процессом. Идентификатор процесса: {0}" />
+			<Item Name="LocalizableStrings.OpenServiceModelByServiceModuleCaption.Value" Value="Отобразить зависимости по сервису" />
+			<Item Name="LocalizableStrings.ParametersTabCaption.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.ParametersTabCaption.Value" Value="Информация по обращению" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Вернуть в очередь" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Ошибка возвращения элемента в очередь. Сообщение об ошибке: {0}" />
+			<Item Name="LocalizableStrings.ProcessingTabCaption.Caption" Value="Обработка" />
+			<Item Name="LocalizableStrings.ProcessingTabCaption.Value" Value="Обработка" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Страница не связана с элементом очереди единого окна. Действие отменено." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Ошибка при возвращении элемента в очередь" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Элемент успешно возвращен в очередь" />
+			<Item Name="LocalizableStrings.ReclassificationTitle.Value" Value="Реклассифицировать обращения" />
+			<Item Name="LocalizableStrings.SchemaLocalizableString1.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.SearchForSimilarCasesButtonCaption.Caption" Value="Поиск аналогичных обращений" />
+			<Item Name="LocalizableStrings.SearchForSimilarCasesButtonCaption.Value" Value="Поиск аналогичных обращений" />
+			<Item Name="LocalizableStrings.ServiceItemTipMessage.Caption" Value="ServiceItemTipMessage" />
+			<Item Name="LocalizableStrings.ServiceItemTipMessage.Value" Value="&lt;p&gt;По сервису определяется категория обращения и могут устанавливаться плановые сроки реакции и разрешения. Вы можете указать один из &lt;a href=&quot;../Nui/ViewModule.aspx#SectionModuleV2/ServiceItemSection/&quot;&gt;сервисов&lt;/a&gt;, который настроен на детали “Сервисы” в разделе  &lt;a href=&quot;../Nui/ViewModule.aspx#SectionModuleV2/ServicePactSection/&quot;&gt;“Сервисные договоры”&lt;/a&gt; &lt;/p&gt;" />
+			<Item Name="LocalizableStrings.ServicePactTipMessage.Caption" Value="ServicePactTipMessage" />
+			<Item Name="LocalizableStrings.ServicePactTipMessage.Value" Value="&lt;p&gt;Сервисный договор определяет индивидуальные условия обслуживания заявителей, а также ведения договоров с подрядчиками и внутренних сервисных договоров компании. Сервисные соглашения настраиваются в разделе &lt;a href=&quot;../Nui/ViewModule.aspx#SectionModuleV2/ServicePactSection/&quot;&gt;&quot;Сервисные договоры&quot;&lt;/a&gt;  &lt;/p&gt;" />
+			<Item Name="LocalizableStrings.SetCaseContactMessage.Value" Value="Указать {0} в качестве контакта в обращении?" />
+			<Item Name="LocalizableStrings.ShowSystemMessagesString.Caption" Value="Показать системные сообщения" />
+			<Item Name="LocalizableStrings.ShowSystemMessagesString.Value" Value="Показать системные сообщения" />
+			<Item Name="LocalizableStrings.SolutionFieldPlaceholder.Value" Value="Детальное описание решения" />
+			<Item Name="LocalizableStrings.SolvedOnSupportLevelCaption.Value" Value="Решено на уровне" />
+			<Item Name="LocalizableStrings.SupportLevelCaption.Value" Value="Уровень поддержки" />
+			<Item Name="LocalizableStrings.SymptomsCaption.Value" Value="Описание" />
+		</Items>
+	</Group>
+</Resources>

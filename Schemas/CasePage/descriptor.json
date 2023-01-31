@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "cdaaccf1-7388-4f42-95e0-ea99985f8693",
+    "Name": "CasePage",
+    "ModifiedOnUtc": "\/Date(1674635042000)\/",
+    "Parent": {
+      "UId": "73c75b87-44f4-4ab1-9ebb-6373a1f3903d",
+      "Name": "CasePage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница обращения"
+  }
+}
