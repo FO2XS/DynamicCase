@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "2b24e941-2be8-f9a2-be5f-6a21afbfa92c",
+    "Name": "DynamicCase",
+    "ModifiedOnUtc": "\/Date(1671421432000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "3f299622-2079-4a62-ba18-6d32c1d0d6af",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise_Marketing_ServiceEnt"
+      }
+    ]
+  }
+}
